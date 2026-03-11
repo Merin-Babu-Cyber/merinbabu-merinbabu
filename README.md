@@ -29,3 +29,7 @@ This project demonstrates the deployment of a secure Microsoft 365 environment u
 ## Purpose
 
 This lab was created to gain hands-on experience with cloud security operations, SIEM monitoring, and automated threat detection in modern enterprise environments.
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/merin-pulimoottuparambil-babu
